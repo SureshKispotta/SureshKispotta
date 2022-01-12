@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SureshKispotta, Senior Software Development Engineer at Relance jio infocomm Pvt.ltd, Bangalore
 - 👀 I’m interested in Learing new tech, also sharing the knowledge to gather more..
 - 🌱 I’m currently learning Python, R and looking to develop a library to interchange the command with linux kernal
-- 💞️ Love collaborate with tech events..
+- 💞️ Love to collaborate with tech events..
 - 📫 Ping me linkdn https://in.linkedin.com/in/suresh-kispotta-41a226a5 
 
 <!---
